@@ -1,2 +1,2 @@
-# hello-wold
+# Stepik homework
 my steps in this world
